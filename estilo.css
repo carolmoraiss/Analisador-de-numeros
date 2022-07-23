@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(90, 76, 121);
+    
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 5px 5px black;
+}
+
+#fnum {
+    border-radius: 5px;
+}
+
+#espaco {
+    width: 150px;
+    border-radius: 5px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.botao:hover {
+    transition: all 0.5s ease-in;
+    background-color: rgb(199, 158, 238);
+}
